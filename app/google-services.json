@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1000131484531",
+    "firebase_url": "https://discountopia-8d20d.firebaseio.com",
+    "project_id": "discountopia-8d20d",
+    "storage_bucket": "discountopia-8d20d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000131484531:android:9b5000f889119791a20306",
+        "android_client_info": {
+          "package_name": "com.pathfinder.discountopia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000131484531-08te1l7mn1tdtpo5vu1cjju2hmvbim8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pathfinder.discountopia",
+            "certificate_hash": "9ef386c18a78addfb8f6b8915cf61f63af6c268b"
+          }
+        },
+        {
+          "client_id": "1000131484531-g7aqtt3gn8kln8cro07n6n9vfd6op74u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXuQ90SY1CFobTS8oTOh8ZTSHVUVkFCVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000131484531-g7aqtt3gn8kln8cro07n6n9vfd6op74u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

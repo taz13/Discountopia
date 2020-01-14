@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Discountopia</string>
+    <string name="username">Username</string>
+    <string name="enter_username">Enter username</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login">Login</string>
+</resources>
